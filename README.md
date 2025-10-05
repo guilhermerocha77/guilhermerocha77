@@ -13,3 +13,5 @@
   Essas são algumas Linguagens ou Ferramentas que eu trabalho: <br>
   <i>HTML</i>, <i>CSS</i>, <i>Canva</i>, <i>Figma</i>, <i>CapCut</i>, <i>MySql</i>
 </h3>
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
