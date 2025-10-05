@@ -10,7 +10,7 @@
   <br>
   <br>
   Essas são algumas Linguagens ou Ferramentas que eu trabalho: <br>
-  <i*HTML*</i>, <i>*CSS*</i>, <i>*Canva*</i>, <i>*Figma*i>, <i*CapCut*i>, <i>*MySql*</i>
+  **HTML**, **CSS**, **Canva**, **Figma**, **CapCut**, **MySql**
 
 
 ---
