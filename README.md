@@ -1,6 +1,6 @@
 <h2>Olá! Tudo Bem?!</h2>
 
-  Eu sou o **Guilherme** e estou Cursando Téc.Informática na Escola profissionalizante EEEP Salaberga.
+  Eu sou o _**Guilherme**_ e estou Cursando Téc.Informática na Escola profissionalizante EEEP Salaberga.
   Estou começando minha trajetória no Github, Explorando e Aprendendo mais sobre desenvolvimento Web,
   e Design Web.
   <br>
