@@ -1,6 +1,6 @@
 <h2>Olá! Tudo Bem?!</h2>
 
-  Eu sou o <i> Guilherme </i> e estou Cursando Téc.Informática na Escola profissionalizante EEEP Salaberga.
+  Eu sou o **Guilherme** e estou Cursando Téc.Informática na Escola profissionalizante EEEP Salaberga.
   Estou começando minha trajetória no Github, Explorando e Aprendendo mais sobre desenvolvimento Web,
   e Design Web.
   <br>
@@ -12,9 +12,12 @@
   Essas são algumas Linguagens ou Ferramentas que eu trabalho: <br>
   _**HTML**_, _**CSS**_, _**Canva**_,_**Figma**_, _**CapCut**_, _**MySql**_
 
-
 ---
+
+## Linguagens e Ferramentas
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
