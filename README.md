@@ -21,3 +21,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-000000?style=for-the-badge&logo=arduino&logoColor=white)
