@@ -10,7 +10,7 @@
   <br>
   <br>
   Essas são algumas Linguagens ou Ferramentas que eu trabalho: <br>
-   _**Canva**_, _**Figma**_, _**CapCut**_, _**MySql**_
+   _**Canva**_, _**Figma**_, _**CapCut**_
 
 ---
 
